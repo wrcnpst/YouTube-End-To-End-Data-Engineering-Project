@@ -23,7 +23,7 @@ Tools:
 - S3 bucket - for data storage
 - AWS Glue with Crawlers - for data analysis, crawling data catalogue, and ETL operations
 - AWS Athena - an ad hoc query tool that allows you to write SQL queries and gain insights into your data.
-- AWS Lambda - for data transformation
+- AWS Lambda - data processing and transformation
 
 ## What are the goal of this project
 
